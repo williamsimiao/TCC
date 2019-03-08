@@ -80,7 +80,7 @@ class Ner_Babel:
                 if(nome != 'related to'):
                     entity_candidates.append(nome)
 
-        print(entity_candidates)
+        # print(entity_candidates)
         return entity_candidates
 
          # with open("entidades.txt") as f:

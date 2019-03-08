@@ -1,0 +1,18 @@
+Entities:
+neural networks
+artificial intelligence
+computer vision
+activation function
+genetic algorithms
+data mining
+machine learning
+unsupervised learning
+supervised learning
+pattern recognition
+overfitting
+
+Relations:
+isa
+partof
+has
+relatedto
